@@ -7,12 +7,14 @@
       <friend-contact 
         name='Manuel Lorenz' 
         phone-number='01234 78992' 
-        email-address='manuel@localhost.com'>
+        email-address='manuel@localhost.com'
+        is-favorite="1">
       </friend-contact>
       <friend-contact
       name='Julie Jones' 
         phone-number='9876 43210' 
-        email-address='julie@localhost.com'></friend-contact>
+        email-address='julie@localhost.com'
+        is-favorite="0"></friend-contact>
     </ul>
   </section>
 </template>
